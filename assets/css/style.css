@@ -1,10 +1,12 @@
-.p1 {
- color: black;
-
+.azul{
+ color:blue;
 }
-.amarillo{
-    color:yellow;
+.rojo{
+    color:red;
 }
 .just{
     text-align:justify;
+}
+.verde{
+    color:green;
 }
