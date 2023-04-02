@@ -1,12 +1,6 @@
-.azul {
-color:blue;
-}
-.rojo {
-color:red;
-}
-.just {
-text-align:justify;
-}
-.verde {
-color:green;
-}
+.texto {
+    text-align:justify;
+    }
+.color {
+    color:thistle;
+    }
